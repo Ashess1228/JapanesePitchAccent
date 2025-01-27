@@ -304,7 +304,7 @@ var breaktime3 = {
 // 休息结束提示
 var after_break = {
     type: jsPsychHtmlButtonResponse,
-    stimulus: `<h1> 実験に戻りましょう！</h1>`,
+    stimulus: `<h2> 実験に戻りましょう！</h2>`,
     choices: ['続けます！']
 };
 
